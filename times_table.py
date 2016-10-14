@@ -29,3 +29,9 @@ def run_tests():
 
 # Edit this code
 def table(n):
+     for i in range(n, 6*n, n):
+         print(i)
+         
+
+        
+        

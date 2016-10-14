@@ -1,4 +1,14 @@
-"""
+
+
+
+
+
+
+
+
+
+
+  """
 Problem:
 
     The function mult_count takes an integer n.
